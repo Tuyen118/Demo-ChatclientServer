@@ -1,0 +1,27 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.pdb
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.exe
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.pdb
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\mscorlib.dll
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\System.Net.Http.dll
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\System.Net.Http.xml
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\normidna.nlp
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\normnfc.nlp
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\normnfd.nlp
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\normnfkc.nlp
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\bin\Debug\normnfkd.nlp
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\Tai lieu hoc tap\LapTrinhUngDungMang\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.Cache
